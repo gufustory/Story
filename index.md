@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## 内篇
+
+*在主立元三十七年，伟大的安戈萨王率领千万大军离开圣京，向南行进，征服蛮夷之地*
+
+
+
 
 You can use the [editor on GitHub](https://github.com/gufustory/gufustory.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
